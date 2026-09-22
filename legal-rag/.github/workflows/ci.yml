@@ -1,0 +1,36 @@
+name: CI
+
+# Runs the test suite AND the eval promotion gate on every push/PR.
+# The eval gate exits non-zero below threshold, so a change that degrades
+# grounding fails CI — "eval as a CI gate". Everything runs offline (mock LLM +
+# mock embedder), so no secrets or model downloads are required.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test-and-eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run unit tests
+        working-directory: backend
+        run: python -m pytest -q
+
+      - name: Run offline end-to-end demo
+        run: python backend/demo.py
+
+      - name: Eval promotion gate
+        run: python eval/run_eval.py

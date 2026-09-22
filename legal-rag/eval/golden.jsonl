@@ -1,0 +1,5 @@
+{"id": "q1", "query": "What is the deadline to file an EEOC charge for employment discrimination?", "expected_sources": ["42-usc-2000e-5-e1", "29-cfr-1601-13"], "must_mention": ["180", "300"]}
+{"id": "q2", "query": "Can a city be sued under 42 U.S.C. 1983 and does it have qualified immunity?", "expected_sources": ["monell-1978", "owen-1980"], "must_mention": ["municipal", "immunity"]}
+{"id": "q3", "query": "Is a municipality a person that can be sued for civil rights violations under section 1983?", "expected_sources": ["monell-1978", "42-usc-1983"], "must_mention": ["policy", "custom"]}
+{"id": "q4", "query": "What makes an employment practice unlawful under Title VII?", "expected_sources": ["42-usc-2000e-2"], "must_mention": ["race", "sex"]}
+{"id": "q5", "query": "Does a municipality get qualified immunity in a section 1983 suit?", "expected_sources": ["owen-1980"], "must_mention": ["immunity"]}
