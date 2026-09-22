@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "29-cfr-1601-13",
+    "source_type": "cfr",
+    "title": "29 C.F.R. § 1601.13 — Filing in deferral States; 300-day period",
+    "citation": "29 C.F.R. § 1601.13",
+    "page": 1,
+    "paragraph": "a(4)",
+    "text": "In a State or locality that has a fair employment practices agency, a charge of an unlawful employment practice shall be filed with the Commission within 300 days of the alleged unlawful employment practice, or within thirty days after receiving notice that the State or local agency has terminated its proceedings, whichever is earlier. This extended filing deadline applies to deferral jurisdictions.",
+    "metadata": {"status": "in_force", "topic": "EEOC charge filing deadline deferral state", "agency": "EEOC", "days": 300}
+  },
+  {
+    "source_id": "29-cfr-1601-74",
+    "source_type": "cfr",
+    "title": "29 C.F.R. § 1601.74 — Designated FEP agencies",
+    "citation": "29 C.F.R. § 1601.74",
+    "page": 4,
+    "paragraph": "a",
+    "text": "The Commission has designated the State and local fair employment practices agencies listed in this section as deferral agencies. Whether the baseline filing period or the extended deferral filing period applies depends on whether the charge arises in a jurisdiction served by such a designated deferral agency.",
+    "metadata": {"status": "in_force", "topic": "deferral agencies filing period", "agency": "EEOC"}
+  },
+  {
+    "source_id": "28-cfr-35-104",
+    "source_type": "cfr",
+    "title": "28 C.F.R. § 35.104 — Definitions (Title II ADA)",
+    "citation": "28 C.F.R. § 35.104",
+    "page": 2,
+    "paragraph": "def",
+    "text": "Public entity means any State or local government and any department, agency, special purpose district, or other instrumentality of a State or States or local government. This regulation implements Title II of the Americans with Disabilities Act.",
+    "metadata": {"status": "in_force", "topic": "public entity definition ADA"}
+  }
+]

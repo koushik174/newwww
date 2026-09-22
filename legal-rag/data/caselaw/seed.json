@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "monell-1978",
+    "source_type": "caselaw",
+    "title": "Monell v. Department of Social Services, 436 U.S. 658 (1978)",
+    "citation": "Monell v. Dep't of Soc. Servs., 436 U.S. 658 (1978)",
+    "page": 690,
+    "paragraph": "III",
+    "text": "Local governing bodies are persons that can be sued directly under 42 U.S.C. § 1983 when execution of a municipal government's own policy or custom inflicts the constitutional injury complained of. A municipality cannot be held liable under section 1983 on a respondeat superior theory solely because it employs a tortfeasor; liability attaches only for the government's own official policy or custom.",
+    "metadata": {"status": "good_law", "topic": "municipal liability section 1983 policy or custom", "court": "U.S. Supreme Court"}
+  },
+  {
+    "source_id": "owen-1980",
+    "source_type": "caselaw",
+    "title": "Owen v. City of Independence, 445 U.S. 622 (1980)",
+    "citation": "Owen v. City of Independence, 445 U.S. 622 (1980)",
+    "page": 650,
+    "paragraph": "IV",
+    "text": "A municipality may not assert the good-faith qualified immunity that its officers enjoy as a defense to liability under 42 U.S.C. § 1983. There is no tradition of immunity for municipal corporations, and neither history nor policy supports a construction of section 1983 that would justify recognizing such a defense for local governments.",
+    "metadata": {"status": "good_law", "topic": "municipal qualified immunity section 1983", "court": "U.S. Supreme Court"}
+  },
+  {
+    "source_id": "monroe-1961",
+    "source_type": "caselaw",
+    "title": "Monroe v. Pape, 365 U.S. 167 (1961)",
+    "citation": "Monroe v. Pape, 365 U.S. 167 (1961)",
+    "page": 187,
+    "paragraph": "II",
+    "text": "Congress did not intend to bring municipal corporations within the ambit of the word person as used in 42 U.S.C. § 1983, and therefore a city is not a proper defendant in a section 1983 civil rights action. This holding regarding municipal personhood was later rejected.",
+    "metadata": {"status": "overruled", "overruled_by": "Monell v. Dep't of Soc. Servs., 436 U.S. 658 (1978)", "topic": "municipal personhood section 1983", "court": "U.S. Supreme Court"}
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "42-usc-1983",
+    "source_type": "federal",
+    "title": "42 U.S.C. § 1983 — Civil action for deprivation of rights",
+    "citation": "42 U.S.C. § 1983",
+    "page": 1,
+    "paragraph": "a",
+    "text": "Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.",
+    "metadata": {"status": "in_force", "topic": "civil rights, section 1983 liability"}
+  },
+  {
+    "source_id": "42-usc-2000e-5-e1",
+    "source_type": "federal",
+    "title": "42 U.S.C. § 2000e-5(e)(1) — Time for filing charges (Title VII)",
+    "citation": "42 U.S.C. § 2000e-5(e)(1)",
+    "page": 12,
+    "paragraph": "e(1)",
+    "text": "A charge under this section shall be filed with the Equal Employment Opportunity Commission within 180 days after the alleged unlawful employment practice occurred. This is the baseline federal filing deadline for a discrimination charge.",
+    "metadata": {"status": "in_force", "topic": "EEOC charge filing deadline", "agency": "EEOC"}
+  },
+  {
+    "source_id": "42-usc-2000e-2",
+    "source_type": "federal",
+    "title": "42 U.S.C. § 2000e-2(a) — Unlawful employment practices",
+    "citation": "42 U.S.C. § 2000e-2(a)",
+    "page": 8,
+    "paragraph": "a",
+    "text": "It shall be an unlawful employment practice for an employer to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin.",
+    "metadata": {"status": "in_force", "topic": "employment discrimination"}
+  }
+]
